@@ -12,10 +12,10 @@ Hello! I'm Fatima Zahra BOUKAB! 🌟
 
 💬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-zahra-boukab-b11210286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  <br/>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimazahraboukab9@gmail.com) <br/>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16zFs2nZgF/) <br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fatimazahra_boukab1?igsh=MWhrazl6ampkODFlMQ==)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-zahra-boukab-b11210286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimazahraboukab9@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16zFs2nZgF/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fatimazahra_boukab1?igsh=MWhrazl6ampkODFlMQ==)
 
 
 # 💻 Tech Stack:
