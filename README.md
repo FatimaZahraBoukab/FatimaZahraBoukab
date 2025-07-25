@@ -1,19 +1,19 @@
 Hello! I'm Fatima Zahra BOUKAB! 🌟
 
-⚡ Enthusiastic about programming, creative solutions, and innovative development
-🎓 Computer Science student, focused on Software Application Development
-🌱 Constantly learning cutting-edge technologies and enhancing my expertise
+⚡ Enthusiastic about programming, creative solutions, and innovative development <br/>
+🎓 Computer Science student, focused on Software Application Development <br/>
+🌱 Constantly learning cutting-edge technologies and enhancing my expertise <br/>
 
 ✨ My Passions
 
-🌐 Modern Web Development
-⚙️ Application Engineering
-🔬 Discovering emerging technologies & design patterns
+🌐 Modern Web Development <br/>
+⚙️ Application Engineering <br/>
+🔬 Discovering emerging technologies & design patterns <br/>
 
 💬 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fatima Zahra Boukab) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimazahraboukab9@gmail.com) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fatima Zahra Boukab) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fatima Zahra Boukab)  <br/>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimazahraboukab9@gmail.com) <br/>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fatima Zahra Boukab) <br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatimazahra_boukab1) 
 
 
